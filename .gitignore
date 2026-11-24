@@ -1,0 +1,15 @@
+# Compilats
+bin/
+out/
+*.class
+
+# Fitxers que genera el programa
+dades/*.ser
+dades/pacients_tractament.txt
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.metadata/

@@ -1,0 +1,6 @@
+CARDIOLOGIA;P001;Joan Puig;50;true;22
+TRAUMATOLOGIA;P002;Pere Soler;66;false;braç
+GINECOLOGIA;P003;Anna Roca;30;false;false;true
+ALTRES;P004;Marta Vidal;17;true;Mal de cap fort des d'ahir
+CARDIOLOGIA;P005;Josep Martí;81;false;45
+GINECOLOGIA;P006;Laia Ferrer;27;true;true;false
