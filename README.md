@@ -1,1 +1,2 @@
-# Programaci-URV-Pr-ctica-3-2026
+# Programació-URV-Pràctica-3-2026
+Héctor Bayo Pelló
